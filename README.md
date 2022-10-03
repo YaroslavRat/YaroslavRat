@@ -1,16 +1,16 @@
-### Hi there 👋
+Header
 
-<!--
-**YaroslavRat/YaroslavRat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Yaroslav, web-developer with base JS. I can help you with creating a creative, dynamic functional website. Write me on my social media by pressing the links below
 
-Here are some ideas to get you started:
+Languages, that i know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=004DFF)
+![JavaScript](https://img.shields.io/badge/-Base JavaScript-000000?style=for-the-badge&logo=JavaScript)
+
+Follow me on
+
+![Telegram](https://img.shields.io/badge/Telegram-https://t.me/WebDeveloperUkraine-000000?style=for-the-badge&logo=telegram)
+![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)(https://t.me/WebDeveloperUkraine)
+![Fiverr](https://img.shields.io/badge/-Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=00D678)
+![JavaScript](https://img.shields.io/badge/-Base JavaScript-000000?style=for-the-badge&logo=JavaScript)
