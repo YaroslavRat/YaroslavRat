@@ -10,7 +10,6 @@ Languages, that i know
 
 Follow me on
 
-![Telegram](https://img.shields.io/badge/Telegram-https://t.me/WebDeveloperUkraine-000000?style=for-the-badge&logo=telegram)
 ![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)(https://t.me/WebDeveloperUkraine)
 ![Fiverr](https://img.shields.io/badge/-Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=00D678)
 ![JavaScript](https://img.shields.io/badge/-Base JavaScript-000000?style=for-the-badge&logo=JavaScript)
